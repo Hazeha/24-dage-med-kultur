@@ -1,0 +1,22 @@
+.top-section{
+    /*This is the top section - class made for background*/
+}
+
+.wall{
+    /*This should be the wall posters - class made for "rammer"*/
+    background-image: url("../files/wall.png");
+}
+
+.program-item{
+    /*This is for the events*/
+}
+
+.event-date{
+    /*styling the date*/
+}
+.event-name{
+    /*event name*/
+}
+.event-location{
+    /*styling event location*/
+}
