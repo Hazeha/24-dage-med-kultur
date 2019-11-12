@@ -1,10 +1,27 @@
-.top-section{
-    /*This is the top section - class made for background*/
+/*Border correciton setting*/
+section, header, footer, article, div{
+    border: 1px solid red;
 }
 
+
+header{
+    /*This is the top section - class made for background*/
+    background-image: url("../files/Top section.jpg");
+    background-repeat: no-repeat;
+}
+.hero-body{
+    margin: 10rem;
+    height: 80%;
+}
 .wall{
     /*This should be the wall posters - class made for "rammer"*/
     background-image: url("../files/wall.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.wall-content{
+    margin: 150px 40px 10px 40px;
 }
 
 .program-item{
