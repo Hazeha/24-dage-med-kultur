@@ -8,8 +8,9 @@
     <meta name="keywords" content="Insert SEO keywords" />
 
     <link rel="shortcut icon" href="files/icon.png">
-    <link rel="stylesheet" type="text/css" href="css/main.css" />
     <link rel="stylesheet" type="text/css" href="css/bulma.min.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+
 
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 
@@ -18,59 +19,68 @@
 <body>
 <main>
     <header class="hero top-section is-fullheight">
-        <div class="hero-body columns is-desktop">
-            <article class="wall column is-one-third-desktop">
-                <div class="wall-content">
-                    <h1 class="is-uppercase title">24 dage med kultur</h1>
+        <div class="head-body columns is-desktop">
+            <article class="wall column is-one-third-desktop hero-body">
+                <div class="wall-content has-text-centered column is-offset-1">
+                    <h1 class="is-uppercase big-header">24 dage med kultur</h1>
                 </div>
 
             </article>
 
-            <article class="wall column is-one-third-desktop">
+            <article class="wall column is-one-third-desktop hero-body">
 
-                    <div class="wall-content">
-                        <h2 class="is-uppercase subtitle">kulturoplevelser</h2>
-                        <h1 class="is-uppercase title">på nørrebro</h1>
-                        <h2 class="is-uppercase subtitle">1 - 24 december</h2>
-                        <p>Nørrebro’s årlige kulturfestival repræsenterer alsidighed gennem kreative og spændende arrangementer rettet mod alle slags kulturinteresserede i de
+                    <div class="wall-content column is-offset-1">
+                        <h2 class="is-uppercase subtitle is-size-3-desktop is-bold">kulturoplevelser</h2>
+                        <h1 class="is-uppercase title is-size-1-desktop is-bold">på nørrebro</h1>
+                        <h2 class="is-uppercase subtitle is-size-3-desktop">1 - 24 december</h2>
+                        <p class="is-size-4-desktop is-size-6-mobile">Nørrebro’s årlige kulturfestival repræsenterer alsidighed gennem kreative og spændende arrangementer rettet mod alle slags kulturinteresserede i de
                             kølige decemberdage.</p>
                     </div>
 
 
             </article>
 
-            <article class="wall column is-one-third-desktop">
-                <div class="wall-content">
-                    <div class="program-item">
-                        <p class="event-date">01/12</p>
-                        <p class="event-name">“Christmas Market at Blågårds Plads” </p>
-                        <p class="event-location">Blågårds Plads</p>
-                    </div>
-
-                    <div class="program-item">
-                        <p class="event-date">01/12</p>
-                        <p class="event-name">“Christmas Market at Blågårds Plads” </p>
-                        <p class="event-location">Blågårds Plads</p>
-                    </div>
-
-                    <div class="program-item">
-                        <p class="event-date">01/12</p>
-                        <p class="event-name">“Christmas Market at Blågårds Plads” </p>
-                        <p class="event-location">Blågårds Plads</p>
-                    </div>
+            <article class="wall column is-one-third-desktop hero-body">
+                <div class="wall-content column is-offset-1">
+                    <h1 class="is-size-2 is-bold column is-offset-one-quarter">Events</h1>
+                    <table class="table is-striped">
+                        <tbody>
+                        <tr>
+                            <td>01/12</td>
+                            <td>“Christmas Market at Blågårds Plads” </td>
+                        </tr>
+                        <tr>
+                            <td>02/12</td>
+                            <td>“EARLY MONDAY at Koncertkirken</td>
+                        </tr>
+                        <tr>
+                            <td>03/12</td>
+                            <td>“Home” by Rapolitics
+                                (poetry slam, dance, music & rap)</td>
+                        </tr>
+                        <tr>
+                            <td>04/12</td>
+                            <td>Concert at Bevar’s </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <button class="column is-half is-offset-3-desktop is-offset-5-mobile">Program </button>
+                    <!--TODO remember arrow down-->
                 </div>
 
 
-                <button>Program </button>
-                <!--TODO remember arrow down-->
+
             </article>
         </div>
     </header>
     <section id="secound-section">
-        <h2 class="subtitle">Jul på Nørrebro</h2>
-        <h1 class="title is-uppercase">24 dage med kultur</h1>
-        <div class="columns">
-            <article class="program column">
+        <div class="has-text-centered">
+            <h2 class="subtitle">Jul på Nørrebro</h2>
+            <h1 class="title is-uppercase">24 dage med kultur</h1>
+        </div>
+
+        <div class="columns column is-offset-2">
+            <article class="program column is-one-quarter">
                 <table class="table is-striped">
                     <tbody>
                     <tr>
@@ -111,7 +121,7 @@
                 </table>
             </article>
 
-            <article class="program column">
+            <article class="program column is-one-quarter">
                 <table class="table is-striped">
                     <tbody>
                     <tr>
@@ -152,7 +162,7 @@
                 </table>
             </article>
 
-            <article class="program column">
+            <article class="program column is-one-quarter">
                 <table class="table is-striped">
                     <tbody>
                     <tr>
@@ -187,8 +197,6 @@
                     <tr>
                         <td>24/12</td>
                         <td>Christmas concert by
-                            Stefanskirkenpodio</td>
-                    </tr>
                     </tbody>
                 </table>
             </article>
@@ -197,7 +205,16 @@
     </section>
 
     <footer id="third-section">
+        <div class="column is-one-third is-offset-one-third content white">
+            <div class="has-text-centered">
+                <h1 style="color: white">Formålet med <br>
+                    24 dage med kultur</h1>
+            </div>
 
+            <p>24 Dage Med Kultur er et initiativ søsat af KulturSkaber kontoret i Kultur N. Formålet med denne december kulturfestival er, at sætte en særlig ramme op for et udvalg af de mange farverige kulturentreprenørskaber på Nørrebro. Med 24 Dage Med Kultur sætter vi fingeren på Nørrebros december puls og synliggøre dette for Nørrebro og resten af byen</p>
+
+        </div>
+        <button class="is-uppercase column is-2 is-offset-5-desktop is-offset-4-mobile">kulturskaberne</button>
     </footer>
 </main>
 </body>
