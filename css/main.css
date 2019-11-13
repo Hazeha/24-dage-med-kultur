@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
-article, div, header, section{
-    border: 1px solid red;
-}
+/*article, div, header, section{*/
+    /*border: 1px solid red;*/
+/*}*/
 
 body{
     font-family: 'Montserrat', sans-serif;
