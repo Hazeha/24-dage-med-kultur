@@ -30,9 +30,10 @@ footer{
 .wall{
     /*This should be the wall posters - class made for "rammer"*/
     background-image: url("../files/wall.png");
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     height: 650px;
+    margin-bottom: 50px;
 }
 .wall-content{
     margin: 6rem 2rem 0px 2rem;

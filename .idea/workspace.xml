@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05742955-767a-41ae-9445-a3e8f5dd2d8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/snow.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/snow.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/snow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/snow.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/snow.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/snow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/snow.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,18 +45,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1399" />
-          <entry key="html" value="1751" />
+          <entry key="css" value="1420" />
+          <entry key="html" value="1879" />
           <entry key="sass" value="2" />
-          <entry key="scss" value="84" />
+          <entry key="scss" value="168" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1399" />
-          <entry key="HTML" value="1738" />
+          <entry key="CSS" value="1420" />
+          <entry key="HTML" value="1866" />
           <entry key="JavaScript" value="13" />
-          <entry key="SCSS" value="84" />
+          <entry key="SCSS" value="168" />
           <entry key="Sass" value="2" />
         </counts>
       </usages-collector>
@@ -67,8 +69,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="169">
-                  <caret line="210" column="39" selection-start-line="210" selection-start-column="39" selection-end-line="210" selection-end-column="39" />
+                <state relative-caret-position="425">
+                  <caret line="88" column="24" lean-forward="true" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
                   <folding>
                     <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -81,19 +83,10 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/main.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="731">
-                  <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/snow.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+                <state relative-caret-position="459">
+                  <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="121" />
                 </state>
               </provider>
             </entry>
@@ -101,8 +94,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/snow.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="424">
-                  <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+                <state relative-caret-position="867">
+                  <caret line="213" selection-start-line="213" selection-end-line="213" />
                 </state>
               </provider>
             </entry>
@@ -127,11 +120,11 @@
       <list>
         <option value="$PROJECT_DIR$/bulma-start.html" />
         <option value="$PROJECT_DIR$/_sass/main.scss" />
-        <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/css/snow.css" />
         <option value="$PROJECT_DIR$/css/snow.scss" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/scss/snow.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/snow.css" />
       </list>
     </option>
   </component>
@@ -218,12 +211,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573462760239</updated>
-      <workItem from="1573462761448" duration="25831000" />
+      <workItem from="1573462761448" duration="29467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25831000" />
+    <option name="totallyTimeSpent" value="29467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
@@ -312,29 +305,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        <state relative-caret-position="255">
+          <caret line="34" column="18" lean-forward="true" selection-end-line="103" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/snow.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="459">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="121" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/snow.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="867">
+          <caret line="213" selection-start-line="213" selection-end-line="213" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="210" column="39" selection-start-line="210" selection-start-column="39" selection-end-line="210" selection-end-column="39" />
+        <state relative-caret-position="425">
+          <caret line="88" column="24" lean-forward="true" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
